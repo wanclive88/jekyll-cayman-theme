@@ -7,4 +7,4 @@ categories: main
 
 Hello, everybody who is reading this page!  This is my first blog post on GitHub.
 
-Check out my [LinkedIn profile](www.linkedin.com/in/wanclive)!
+Check out my [LinkedIn profile](http://www.linkedin.com/in/wanclive)!
